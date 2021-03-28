@@ -7,7 +7,7 @@
   </a>
 </p>
 <h1 align="center">
-  Brevifolia
+  Intégratrice Développeuse Front
 </h1>
 
 ## About
