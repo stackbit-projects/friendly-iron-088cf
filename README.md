@@ -7,7 +7,7 @@
   </a>
 </p>
 <h1 align="center">
-  Intégratrice Développeuse Front
+  Intégratrice Développeuse Web
 </h1>
 
 ## About
